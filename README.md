@@ -2,5 +2,4 @@
 
 MARCH 2023 - MAY 2023
 
-This repository is a compilation of the different mobile app projects I have worked on. Some of the languages used include Xcode, 
-React Native, and MIT Android App Inventor.
+This repository is a compilation of the different mobile app projects I have worked on. Some of the languages used include Swift and some IDE's used include Xcode, MIT Android App Inventor, and other online compilers.
